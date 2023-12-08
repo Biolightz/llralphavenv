@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import PhotoImage, Entry, Button, Toplevel, Canvas
 from PIL import Image, ImageTk
 import random
-
+#Hit
 # Define root as a global variable
 root = None
 
